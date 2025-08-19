@@ -1,0 +1,5 @@
+<FrameLayout
+    android:id="@+id/fullscreen_container">
+    <TextView android:id="@+id/tvFullName" />
+    <TextView android:id="@+id/tvFullHex" />
+</FrameLayout>
