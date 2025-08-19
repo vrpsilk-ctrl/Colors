@@ -1,0 +1,6 @@
+<LinearLayout>
+  <SearchView
+    android:id="@+id/searchView" />
+  <androidx.recyclerview.widget.RecyclerView
+    android:id="@+id/rvColors" />
+</LinearLayout>
