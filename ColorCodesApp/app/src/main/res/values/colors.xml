@@ -1,0 +1,8 @@
+<resources>
+    <!-- Sample colors -->
+    <color name="Snow">#FFFAFA</color>
+    <color name="LavenderBlush">#FFF0F5</color>
+    <color name="DeepSkyBlue">#00BFFF</color>
+    <color name="LimeGreen">#32CD32</color>
+    <!-- ... add more -->
+</resources>
